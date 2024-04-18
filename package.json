@@ -1,0 +1,29 @@
+{
+  "name": "backendvoteproject",
+  "version": "1.0.0",
+  "description": "Rating games",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alyonka225/VoteProject.git"
+  },
+  "keywords": [
+    "games",
+    "vote",
+    "rating"
+  ],
+  "author": "♥alyonka♥",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alyonka225/VoteProject/issues"
+  },
+  "homepage": "https://github.com/alyonka225/VoteProject#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
